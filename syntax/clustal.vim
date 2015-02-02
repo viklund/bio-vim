@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:     Clustal alignment
-" Maintainer:   Qinhu Wang <qinhu.wang@gmail.com>
-" Last Change:  2014 May 07
+" Maintainer:   Qinhu Wang <qinhu.wang@icloud.com>
+" Last Change:  Feb 2, 2015
 
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
